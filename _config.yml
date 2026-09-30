@@ -24,9 +24,9 @@ repository               : "3aByJI0H.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Denis Vinokurov"
+  name             : #"Denis Vinokurov"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Mathematics at Université de Montréal" #next to the side name
+  bio              : #"PhD Candidate in Mathematics at Université de Montréal"
   location         : "Montréal, Canada"
   employer         : #"Université de Montréal, Canada"
   uri              : # URL
