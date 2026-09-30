@@ -30,7 +30,9 @@ author:
   location         : "Montréal, Canada"
   employer         : #"Université de Montréal, Canada"
   uri              : # URL
-  email            : "denis.vinokurov [at] umontreal.ca" 
+  # email            : "denis.vinokurov [at] umontreal.ca" 
+  email_domain     : "umontreal.ca"
+  email_user       : "denis.vinokurov"
 
   # Academic websites
   academia         : # URL
