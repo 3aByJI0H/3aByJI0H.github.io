@@ -30,11 +30,11 @@ author:
   location         : "Montréal, Canada"
   employer         : #"Université de Montréal, Canada"
   uri              : # URL
-  email            : "denis [dot] vinokurov [at] umontreal [dot] ca" 
+  email            : "denis.vinokurov [at] umontreal.ca" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/a/vinokurov_d_1.html"
+  arxiv            : "https://arxiv.org/a/vinokurov_d_1"
   googlescholar    : "https://scholar.google.ca/citations?user=UVHIZFwAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
