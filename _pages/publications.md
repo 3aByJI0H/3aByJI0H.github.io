@@ -16,13 +16,15 @@ hide_title: true
 
 ## Preprints
 
-- Eigenvalue optimization via a first-variation formula. 2026. [arXiv](https://arxiv.org/abs/2606.31869).
-- Geometric bounds for Steklov and weighted Neumann eigenvalues on Euclidean domains. 2026. [arXiv](https://arxiv.org/abs/2604.03418).
-- Maximizing higher eigenvalues in dimensions three and above. 2025. [arXiv](https://arxiv.org/abs/2506.09328).
+<ol reversed class="publication-list">
+  <li>Eigenvalue optimization via a first-variation formula. 2026. [arXiv](https://arxiv.org/abs/2606.31869).</li>
+  <li>Geometric bounds for Steklov and weighted Neumann eigenvalues on Euclidean domains. 2026. [arXiv](https://arxiv.org/abs/2604.03418).</li>
+  <li>Maximizing higher eigenvalues in dimensions three and above. 2025. [arXiv](https://arxiv.org/abs/2506.09328).</li>
+</ol>
 
 ## Published and accepted papers
 
-<ol reversed>
+<ol reversed class="publication-list">
 <li>Eigenvalue optimization in higher dimensions and \(p\)-harmonic maps. <strong>Geom. Funct. Anal.</strong> 36.4 (2026), pp. 1244–1293. <a href="https://doi.org/10.1007/s00039-026-00751-3">doi</a> | <a href="https://arxiv.org/abs/2601.17896">arXiv</a>.</li>
 
 <li>Conformal optimization of eigenvalues on surfaces with symmetries. <strong>J. Lond. Math. Soc.</strong> 112.6 (2025), e70386. <a href="https://doi.org/10.1112/jlms.70386">doi</a> | <a href="https://arxiv.org/abs/2502.03756">arXiv</a>.</li>
@@ -31,3 +33,17 @@ hide_title: true
 </ol>
 
 </div>
+
+<script>
+  const lists = [...document.querySelectorAll(".publication-list")];
+
+  let number = lists.reduce(
+    (total, list) => total + list.children.length,
+    0
+  );
+
+  lists.forEach(list => {
+    list.start = number;
+    number -= list.children.length;
+  });
+</script>
