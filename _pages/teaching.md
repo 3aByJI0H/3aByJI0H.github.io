@@ -6,7 +6,7 @@ author_profile: true
 hide_title: true
 ---
 
-## Teaching Assistantships
+## Teaching Assistant Experience
 
 - **Université de Montréal** (leading problem-solving sessions)
   - _Fall 2025_ — Linear Algebra
