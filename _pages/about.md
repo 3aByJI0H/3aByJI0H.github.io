@@ -8,4 +8,8 @@ redirect_from:
 ---
 
 
-This is Denis Vinokurov's website!
+I am a PhD candidate in Mathematics at [Université de Montréal](https://dms.umontreal.ca/en/), supervised by [Iosif Polterovich](https://dms.umontreal.ca/~iossif/) and [Mikhail Karpukhin](https://sites.google.com/view/mkarpukh/home). 
+
+I'm interested in geometric analysis, optimization and variational methods, and nonsmooth analysis. Topics of particular interest to me include spectral geometry, eigenvalue optimization, harmonic maps, and minimal submanifolds.
+
+I am currently looking for a postdoctoral position starting in Fall 2027.
