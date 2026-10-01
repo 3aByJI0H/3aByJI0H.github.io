@@ -10,6 +10,13 @@ hide_title: true
   font-size: 0.85em;
   line-height: 1.35;
 }
+
+@media (min-width: 1024px) {
+  .publications-page {
+    width: calc(100% + 80px);
+    max-width: none;
+  }
+}
 </style>
 
 <div class="publications-page" markdown="1">
