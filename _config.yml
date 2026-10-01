@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"PhD Candidate in Mathematics at Université de Montréal"
   location         : "Montréal, Canada"
-  employer         : #"Université de Montréal, Canada"
+  employer         : "Université de Montréal"
   uri              : # URL
   # email            : "denis.vinokurov [at] umontreal.ca" 
   email_domain     : "umontreal.ca"
