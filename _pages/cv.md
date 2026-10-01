@@ -8,7 +8,7 @@ redirect_from:
   - /resume
 ---
 
-If the embedded PDF below does not load, you can [download it here](/files/CV.pdf).
+If the embedded PDF below does not load, you can [download my CV here](/files/CV.pdf).
 
 <iframe
   src="/files/CV.pdf#view=FitH"
