@@ -17,9 +17,9 @@ hide_title: true
 ## Preprints
 
 <ol reversed class="publication-list">
-  <li>Eigenvalue optimization via a first-variation formula. 2026. [arXiv](https://arxiv.org/abs/2606.31869).</li>
-  <li>Geometric bounds for Steklov and weighted Neumann eigenvalues on Euclidean domains. 2026. [arXiv](https://arxiv.org/abs/2604.03418).</li>
-  <li>Maximizing higher eigenvalues in dimensions three and above. 2025. [arXiv](https://arxiv.org/abs/2506.09328).</li>
+  <li>Eigenvalue optimization via a first-variation formula. 2026. <a href="https://arxiv.org/abs/2606.31869">arXiv</a>.</li>
+  <li>Geometric bounds for Steklov and weighted Neumann eigenvalues on Euclidean domains. 2026. <a href="https://arxiv.org/abs/2604.03418">arXiv</a>.</li>
+  <li>Maximizing higher eigenvalues in dimensions three and above. 2025. <a href="https://arxiv.org/abs/2506.09328">arXiv</a>.</li>
 </ol>
 
 ## Published and accepted papers
