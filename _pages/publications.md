@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 hide_title: true
 ---
+<style>
+.publications-page li {
+  font-size: 0.85em;
+  line-height: 1.35;
+}
+</style>
 
 <div class="publications-page" markdown="1">
 
