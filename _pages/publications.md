@@ -14,13 +14,13 @@ hide_title: true
 
 <div class="publications-page" markdown="1">
 
-# Preprints
+## Preprints
 
 - Eigenvalue optimization via a first-variation formula. 2026. [arXiv](https://arxiv.org/abs/2606.31869).
 - Geometric bounds for Steklov and weighted Neumann eigenvalues on Euclidean domains. 2026. [arXiv](https://arxiv.org/abs/2604.03418).
 - Maximizing higher eigenvalues in dimensions three and above. 2025. [arXiv](https://arxiv.org/abs/2506.09328).
 
-# Published and accepted papers
+## Published and accepted papers
 
 <ol reversed>
 <li>Eigenvalue optimization in higher dimensions and \(p\)-harmonic maps. <strong>Geom. Funct. Anal.</strong> 36.4 (2026), pp. 1244–1293. <a href="https://doi.org/10.1007/s00039-026-00751-3">doi</a> | <a href="https://arxiv.org/abs/2601.17896">arXiv</a>.</li>
