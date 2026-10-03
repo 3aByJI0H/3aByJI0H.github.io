@@ -8,7 +8,7 @@ hide_title: true
 
 ## Teaching Assistant Experience
 
-- **Université de Montréal** (leading problem-solving sessions)
+- **Université de Montréal** (leading problem-solving sessions and grading exams)
   - _Fall 2025_ — Linear Algebra
   - _Winter 2025_ — Euclidean Geometry
   - _Fall 2024_ — Differential Geometry
